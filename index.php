@@ -14,11 +14,11 @@
 </head>
 
 <body>
-<div class="container" style = "width:100%;height:100%;"> 
+<div class="container" > 
   <header class="header"><h1>遠端門鎖DEMO</h1></header>
-  <div class="button" align="center" style = "width:100%;height:100%;">
-  <button type="button" id="demo-area-05-btn1" class="db5" style = "width:100%;height:100%;">
-  <img src="image1.png" width="100%" height="100%" alt="" style = "width:100%;height:100%;">
+  <div class="button" align="center" >
+  <button type="button" id="demo-area-05-btn1" class="db5">
+  <img src="image1.png" width="100%" height="100%" alt="">
   </button>
   </div>
   <div class="cardhead"> <h1>開鎖時間紀錄</h1></div>
