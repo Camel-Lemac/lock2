@@ -68,6 +68,7 @@
 
 .container .button {
 	background-color: #F0E54E;
+	
 }
 .container .button #demo-area-05-btn1 {
 
@@ -168,8 +169,12 @@
 
 .container .button {
 	background-color: #F0E54E;
+	width: 100%;
+	height: 100%;
 }
 .container .button #demo-area-05-btn1 {
+	width: 100%;
+	height: 100%;
 
 }
 
