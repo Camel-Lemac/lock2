@@ -14,7 +14,7 @@
 </head>
 
 <body>
-<div class="container"> 
+<div class="container" style = "width:100%;height:100%;"> 
   <header class="header"><h1>遠端門鎖DEMO</h1></header>
   <div class="button" align="center" style = "width:100%;height:100%;">
   <button type="button" id="demo-area-05-btn1" class="db5" style = "width:100%;height:100%;">
